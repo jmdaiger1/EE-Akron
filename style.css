@@ -45,11 +45,11 @@ nav a.join:hover{background:#E6C673}
 }
 
 /* Heroes */
-.hero{background:linear-gradient(90deg,rgba(6,20,42,.95) 0%,rgba(10,30,61,.75) 42%,rgba(10,30,61,.1) 100%),url(/uploads/powerLines.jpg) 62% 45%/cover #0A1E3D;color:var(--on-navy);min-height:min(40rem,80vh);display:flex;align-items:flex-end}
+.hero{background:linear-gradient(90deg,rgba(6,20,42,.95) 0%,rgba(10,30,61,.75) 42%,rgba(10,30,61,.1) 100%),url(uploads/powerLines.jpg) 62% 45%/cover #0A1E3D;color:var(--on-navy);min-height:min(40rem,80vh);display:flex;align-items:flex-end}
 .hero .wrap{width:100%;padding-top:5rem;padding-bottom:clamp(3rem,8vw,5.5rem)}
 .hero h1{font:800 clamp(2.5rem,7.5vw,5.25rem)/1.02 var(--display);letter-spacing:-.02em;margin:0 0 1.25rem;max-width:14ch}
 .hero p{font-size:clamp(1.0625rem,2.4vw,1.3125rem);max-width:34rem;margin:0 0 2rem;color:var(--soft)}
-@media (max-width:47.99rem){.hero{background:linear-gradient(180deg,rgba(6,20,42,.8),rgba(10,30,61,.55)),url(/uploads/powerLines.jpg) 62% 45%/cover #0A1E3D}}
+@media (max-width:47.99rem){.hero{background:linear-gradient(180deg,rgba(6,20,42,.8),rgba(10,30,61,.55)),url(uploads/powerLines.jpg) 62% 45%/cover #0A1E3D}}
 .page-hero{background:linear-gradient(180deg,var(--navy),#123A6B);color:var(--on-navy);border-bottom:3px solid var(--gold)}
 .page-hero .wrap{padding-top:clamp(2.5rem,7vw,4.5rem);padding-bottom:clamp(2.25rem,6vw,3.5rem)}
 .page-hero h1{font:800 clamp(2.25rem,6vw,3.75rem)/1.05 var(--display);letter-spacing:-.02em;margin:0}
